@@ -1,1 +1,2 @@
-Dieser Ordner enthält alle Dateien die gebraucht werden um mit der Programmierung der ELV-LW-Base zu beginnen. 
+- Dieser Ordner enthält alle Dateien die gebraucht werden um mit der Programmierung der ELV-LW-Base zu beginnen. 
+- Das von ELV entwickelte Flash-Tool ist nur für Windows 10/11 nutzbar und benötigt ein 64-Bit System.
